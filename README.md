@@ -23,8 +23,8 @@ A classic Snake Game implemented in Python using the Pygame library
 
 ### Screenshots
 
-!(https://github.com/akshajkumar8/Snake-Game/assets/72437060/263c17b1-1bf7-4cb1-b7e8-3b22cd7926ad)
+![Alt text](https://github.com/akshajkumar8/Snake-Game/assets/72437060/263c17b1-1bf7-4cb1-b7e8-3b22cd7926ad)
 
-!(https://github.com/akshajkumar8/Snake-Game/assets/72437060/0a204ce7-f045-4756-921f-ead9ffc2d94c)
+![Alt text](https://github.com/akshajkumar8/Snake-Game/assets/72437060/0a204ce7-f045-4756-921f-ead9ffc2d94c)
 
-!(https://github.com/akshajkumar8/Snake-Game/assets/72437060/40622432-f423-4b87-aaad-443940838d71)
+![Alt text](https://github.com/akshajkumar8/Snake-Game/assets/72437060/40622432-f423-4b87-aaad-443940838d71)
