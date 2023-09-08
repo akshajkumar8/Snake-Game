@@ -19,7 +19,7 @@ A classic Snake Game implemented in Python using the Pygame library
 * Press the spacebar to start the game
 * Use the arrow keys to control the snake's direction (Up, Down, Left, Right)
 * Press the "Esc" key to pause/unpause the game
-* Collect the food to increase your score.
+* Collect the food to increase your score
 
 ### Screenshots
 
